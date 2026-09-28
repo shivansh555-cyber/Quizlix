@@ -1,0 +1,28 @@
+[
+  {
+    "quiz_id": 1,
+    "title": "Python Basics",
+    "category": "Programming",
+    "questions": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "quiz_id": 2,
+    "title": "Data Types & Structures",
+    "category": "Programming",
+    "questions": [
+      201,
+      202,
+      203,
+      204,
+      205,
+      206
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "username": "student01",
+    "quiz_id": 1,
+    "quiz_title": "Python Basics",
+    "score": 5,
+    "total": 6,
+    "percentage": 83.33,
+    "timestamp": "2026-09-20 10:15:00"
+  },
+  {
+    "username": "student02",
+    "quiz_id": 1,
+    "quiz_title": "Python Basics",
+    "score": 4,
+    "total": 6,
+    "percentage": 66.67,
+    "timestamp": "2026-09-21 11:05:00"
+  },
+  {
+    "username": "student01",
+    "quiz_id": 2,
+    "quiz_title": "Data Types & Structures",
+    "score": 6,
+    "total": 6,
+    "percentage": 100.0,
+    "timestamp": "2026-09-22 09:40:00"
+  }
+]

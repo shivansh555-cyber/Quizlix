@@ -1,0 +1,158 @@
+[
+  {
+    "question_id": 101,
+    "quiz_id": 1,
+    "question": "Which keyword defines a function in Python?",
+    "options": [
+      "def",
+      "func",
+      "define",
+      "function"
+    ],
+    "answer": "def",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 102,
+    "quiz_id": 1,
+    "question": "Which symbol starts a comment in Python?",
+    "options": [
+      "//",
+      "#",
+      "<!--",
+      "*"
+    ],
+    "answer": "#",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 103,
+    "quiz_id": 1,
+    "question": "What is the output of print(2 ** 3)?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "23"
+    ],
+    "answer": "8",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": 104,
+    "quiz_id": 1,
+    "question": "Which loop is best when the number of repeats is already known?",
+    "options": [
+      "for",
+      "while",
+      "if",
+      "try"
+    ],
+    "answer": "for",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 105,
+    "quiz_id": 1,
+    "question": "What does the len() function return for a string?",
+    "options": [
+      "Its memory address",
+      "Its number of characters",
+      "Its data type",
+      "Nothing"
+    ],
+    "answer": "Its number of characters",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 106,
+    "quiz_id": 1,
+    "question": "Which of these is a valid variable name?",
+    "options": [
+      "2total",
+      "total_2",
+      "total-2",
+      "total 2"
+    ],
+    "answer": "total_2",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": 201,
+    "quiz_id": 2,
+    "question": "Which data type stores items that CANNOT be changed after creation?",
+    "options": [
+      "list",
+      "tuple",
+      "dict",
+      "set"
+    ],
+    "answer": "tuple",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": 202,
+    "quiz_id": 2,
+    "question": "Which data type stores key-value pairs?",
+    "options": [
+      "list",
+      "tuple",
+      "dictionary",
+      "set"
+    ],
+    "answer": "dictionary",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 203,
+    "quiz_id": 2,
+    "question": "Which data type automatically removes duplicate values?",
+    "options": [
+      "list",
+      "tuple",
+      "set",
+      "string"
+    ],
+    "answer": "set",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": 204,
+    "quiz_id": 2,
+    "question": "Which square brackets create a list in Python?",
+    "options": [
+      "()",
+      "{}",
+      "[]",
+      "<>"
+    ],
+    "answer": "[]",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 205,
+    "quiz_id": 2,
+    "question": "What is the index of the first item in a Python list?",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "It depends"
+    ],
+    "answer": "0",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": 206,
+    "quiz_id": 2,
+    "question": "Which method adds one item to the end of a list?",
+    "options": [
+      "append()",
+      "add()",
+      "insert(0)",
+      "push()"
+    ],
+    "answer": "append()",
+    "difficulty": "medium"
+  }
+]

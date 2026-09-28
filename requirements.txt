@@ -1,0 +1,7 @@
+# Quizlix uses only Python's built-in standard library.
+# No external packages are required (json, csv, pathlib, unittest,
+# datetime and random all come with Python itself).
+#
+# This file is kept so the project follows the standard convention of
+# having a requirements.txt, and so graders/teammates immediately know
+# there is nothing extra to install.
