@@ -186,10 +186,10 @@ bank.py    engine.py   manager.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+Shivansh Sharma
 - 🎓 B.Tech CSE, VIT Bhopal University
-- 🆔 Reg. No: `<your-registration-number>`
-- 🔗 GitHub: [@your-username](https://github.com/your-username)
+- 🆔 Reg. No: 26BCE11410
+- 🔗 GitHub: [@shivansh555-cyber](https://github.com/shivansh555-cyber)
 
 ---
 
